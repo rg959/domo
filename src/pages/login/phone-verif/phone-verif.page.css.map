@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,SAAS,CAAA;EACL,SAAS,EAAE,GAAG;EACd,UAAU,EAAE,MAAM;EAClB,cAAc,EAAE,IAAI;CACvB",
+    "sources": [
+        "phone-verif.page.scss"
+    ],
+    "names": [],
+    "file": "phone-verif.page.css"
+}

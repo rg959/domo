@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,eAAe,CAAA;EACX,YAAY,CAAA,2BAAC;EACb,KAAK,EAAE,gBAAgB;CAC1B",
+    "sources": [
+        "edit-email.page.scss"
+    ],
+    "names": [],
+    "file": "edit-email.page.css"
+}
